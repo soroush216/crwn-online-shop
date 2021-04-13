@@ -1,2 +1,5 @@
 # node-sass install for support SASS
 > yarn add node-sass
+
+# firebase
+? yarn add firebase
