@@ -3,3 +3,6 @@
 
 # firebase
 ? yarn add firebase
+
+#redux
+> yarn add redux redux-logger react-redux
